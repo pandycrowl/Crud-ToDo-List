@@ -14,16 +14,4 @@ module.exports = pool
 
 
 
-// const {Sequelize} = require('sequelize')
 
-
-// module.exports = new Sequelize(
-//     "crud",
-//     "postgres",
-//     "71253andrey",
-//     {
-//         dialect: 'postgres',
-//         host: process.env.DB_HOST,
-//         port: process.env.DB_PORT     
-//     }
-// )
